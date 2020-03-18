@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-18_1219",
+    "name": "Malex",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -31,6 +31,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/malex-128x128.png",
+    "noImageResize": "",
+    "сanonical-url": "",
     "uniqCompNum": 4,
     "versionPublish": "4.10.5"
   },
